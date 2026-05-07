@@ -1,9 +1,9 @@
 # BrainNet
 Android app
 
-Infinte canvas
-    - Allowing to insert text boxes anywhere on the page.
-    - Allowing to attach text files but have them stored in a folder for organistion
+Infinte canvas /n
+    - Allowing to insert text boxes anywhere on the page. /n
+    - Allowing to attach text files but have them stored in a folder for organistion.
     - Allowing to attach images but have them stored in a folder for organistion.
     - Allowing to attach doucments but to have them stored in a folder for organistion.
     - Allowing to attach videos but to have them stored in a folder for organistion.
